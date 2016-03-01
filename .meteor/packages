@@ -20,10 +20,10 @@ autopublish             # Publish all data to the clients (for prototyping)
 insecure                # Allow all DB writes from clients (for prototyping)
 cosmos:browserify
 fourseven:scss@2.0.0
-meteorhacks:npm
 meteoric:ionic-sass
 meteoric:ionicons-sass
 react
 
 
 npm-container
+meteorhacks:npm
