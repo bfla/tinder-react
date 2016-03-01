@@ -1,0 +1,1 @@
+var qs = Meteor.npmRequire('qs');

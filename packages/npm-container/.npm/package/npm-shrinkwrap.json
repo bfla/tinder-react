@@ -154,6 +154,9 @@
         }
       }
     },
+    "qs": {
+      "version": "6.1.0"
+    },
     "react": {
       "version": "0.13.3",
       "dependencies": {

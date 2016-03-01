@@ -1,4 +1,5 @@
 {
   "react-router": "0.13.3",
-  "externalify": "0.1.0"
+  "externalify": "0.1.0",
+  "qs": "6.1.0"
 }
